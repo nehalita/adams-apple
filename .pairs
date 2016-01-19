@@ -1,0 +1,10 @@
+pairs:
+  ab: Adam Berkovec; aberkovec
+  nb: Neha Batra; nbatra
+  gd: George Dean; gdean
+
+email:
+  prefix: pair
+  domain: pivotal.io
+
+global: true
