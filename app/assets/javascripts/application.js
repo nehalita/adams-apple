@@ -1,1 +1,1 @@
-//= require_tree .
+alert("HELLO WORLD GEORGE!");

@@ -1,0 +1,10 @@
+{
+  "name": "adams-apple",
+  "version": "1.0.0",
+  "description": "Bare bones rails app",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "webpack": "^1.12.11"
+  }
+}
