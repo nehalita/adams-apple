@@ -1,1 +1,2 @@
-alert("HELLO WORLD GEORGE!");
+require('./configuration/module');
+require('./components/helloTitle/helloTitle');
